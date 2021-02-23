@@ -3,9 +3,7 @@
     "",
     "\\Controller",
     "\\Controller\\ConsoleApp",
-    "\\Controller\\ConsoleApp\\bin\\Debug",
-    "\\Controller\\ConsoleApp\\bin\\Release"
+    "\\Model"
   ],
-  "SelectedNode": "\\Controller\\ConsoleApp\\obj",
   "PreviewInSolutionExplorer": false
 }

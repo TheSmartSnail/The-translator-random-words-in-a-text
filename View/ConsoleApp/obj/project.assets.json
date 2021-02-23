@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TheSmartSnail\\The-translator-random-words-in-a-text\\Controller\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\TheSmartSnail\\The-translator-random-words-in-a-text\\View\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\user\\source\\repos\\TheSmartSnail\\The-translator-random-words-in-a-text\\Controller\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\TheSmartSnail\\The-translator-random-words-in-a-text\\View\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\TheSmartSnail\\The-translator-random-words-in-a-text\\Controller\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\TheSmartSnail\\The-translator-random-words-in-a-text\\View\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
